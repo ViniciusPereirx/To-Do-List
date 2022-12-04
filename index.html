@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lista de Tarefas</title>
+
+    <link
+      rel="shortcut icon"
+      href="https://www.freeiconspng.com/thumbs/tasks-icon/tasks-icon-9.png"
+      type="image/x-icon"
+    />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./style/style.css" />
+
+    <!-- Importando Font awesome (Icons) -->
+    <script
+      src="https://kit.fontawesome.com/5837b59652.js"
+      crossorigin="anonymous"
+    ></script>
+  </head>
+  <body>
+    <div class="container">
+      <div class="todo-container">
+        <header><h1>Lista de Tarefas</h1></header>
+        <form id="todo-form">
+          <p>Adicione sua Tarefa:</p>
+          <div class="form-control">
+            <input
+              type="text"
+              id="todo-input"
+              placeholder="Ex.: Arrumar a casa"
+            />
+            <button type="submit"><em class="fa-solid fa-plus"></em></button>
+          </div>
+        </form>
+        <form id="edit-form" class="hide">
+          <p>Edite sua Tarefa:</p>
+          <div class="form-control">
+            <input type="text" id="edit-input" />
+            <button type="submit">
+              <em class="fa-solid fa-check-double"></em>
+            </button>
+            <button id="cancel-edit-btn">
+              <em class="fa-sharp fa-solid fa-circle-xmark"></em>
+            </button>
+          </div>
+        </form>
+        <div id="todo-list"></div>
+      </div>
+    </div>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>
