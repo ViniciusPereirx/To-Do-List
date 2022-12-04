@@ -2,7 +2,7 @@
 
 <p align="center">Uma lista de tarefas feito com JAVASCRIPT, HTML e CSS, guardando os dados no localStorage</p>
 
-## 🛠️ Technologies
+## 🛠️ Tecnologias
 
 <ul>
   <li><a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">JAVASCRIPT</a></li>
@@ -11,18 +11,18 @@
 
 </ul>
 
-## ⚙️ Requirements
+## ⚙️ Requisitos
 
 <ul>
   <li><a href="https://git-scm.com/">Git</a></li>
 </ul>
 
-## 🚀 Installation
+## 🚀 Instalação
 
 ```
 $ git clone https://github.com/ViniciusPereirx/To-Do-List.git
 $ Instalar a extensão: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 $ Abrir o arquivo (index.html) com Live Server
 
-$ Deploy Vercel:
+$ Deploy Vercel: https://to-do-list-36ir.vercel.app/
 ```
