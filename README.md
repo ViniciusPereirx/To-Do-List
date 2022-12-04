@@ -21,8 +21,8 @@
 
 ```
 $ git clone https://github.com/ViniciusPereirx/To-Do-List.git
-$ Instalar a extensão: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-$ Abrir o arquivo (index.html) com Live Server
+- Instalar a extensão: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+- Abrir o arquivo (index.html) com Live Server
 ```
 
 ##
