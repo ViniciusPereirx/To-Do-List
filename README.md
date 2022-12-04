@@ -23,6 +23,10 @@
 $ git clone https://github.com/ViniciusPereirx/To-Do-List.git
 $ Instalar a extensão: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
 $ Abrir o arquivo (index.html) com Live Server
-
-$ Deploy Vercel: https://to-do-list-36ir.vercel.app/
 ```
+
+##
+
+Deploy Vercel: <a>https://to-do-list-flame-xi.vercel.app/</a>
+
+##
